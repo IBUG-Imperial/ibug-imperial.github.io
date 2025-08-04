@@ -1,14 +1,23 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jiankangdeng
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - roymiles/VeLoRA
+  - james-oldfield/muMoE
+  - foivospar/Arc2Face
+  - eververas/3DGazeNet
+  - kostas1515/AGLU
+  - xingyuren/id2reflectance
+  - preddy5/G3DR
+  - roymiles/vkd
+  - ZPDu/DAI-Net
+  - deepglint/ALIP
+  - BrandonHanx/PoCoLD
+  - FrancescaBabiloni/adaptive_spiral
+  - DanJun6737/TransFace
+  - guanxiongsun/STPN
+  - deepglint/unicom
+  - ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios
+  - deepinsight/insightface
