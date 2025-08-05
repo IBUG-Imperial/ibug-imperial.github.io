@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Imperial College London</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>444a Huxley Building</p>
+    <p>180 Queens Gate, South Kensington</p>
+    <p>London, UK. SW7 2AZ</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor at Imperial College London. My research focuses on two main areas: (1) **multi-modal foundation models**, with an emphasis on perceiving, understanding, modeling, and replicating complex multi-sensory signals such as visual, acoustic, tactile, and EEG data; and (2) **generative modeling of the physical world**, with the goal of synthesizing scalable and reliable digital assets that reproduce real-world entities. My research is at the intersection of computer vision and real-world applications, striving to pioneer transformative technologies for social benefit. I actively serve as an Area Chair for leading conferences in computer vision and machine learning, including CVPR, ICCV, NeurIPS, ICLR, ICML and AAAI. I am also an Associate Editor for IEEE Transactions on Image Processing and  Neural Networks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I obtained my Ph.D.(2020) from the [IBUG](https://ibug.doc.ic.ac.uk/home) group under the supervision of Prof. [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/). 
+My doctoral research focused on deep face analysis and modeling, encompassing efficient geometry estimation, robust feature embedding, and photorealistic texture modeling. I developed algorithms and systems ([InsightFace](https://github.com/deepinsight/insightface/)) to capture, represent, and synthesize diverse human faces with high efficiency, robustness, and fidelity. Additionally, I worked in the field of visual representation learning and won many visual perception challenges (e.g., [ImageNet](https://image-net.org/challenges/beyond_ilsvrc) and [ActivityNet](http://activity-net.org/challenges/2017/program.html)) in the past years. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<a href="https://scholar.google.com/citations?user=Z_UoQFsAAAAJ&hl=en" target="_blank" style="margin-right: 15px"><i class="ai ai-google-scholar ai-lg"></i> Google Scholar</a>
+<a href="https://github.com/jiankangdeng" target="_blank" style="margin-right: 15px"><i class="fab fa-github fa-lg"></i> Github</a>
+<a href="https://twitter.com/jiankangdeng" target="_blank" style="margin-right: 15px"><i class="fab fa-twitter fa-lg"></i> Twitter</a>
+<a href="mailto:j.deng16@imperial.ac.uk" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
