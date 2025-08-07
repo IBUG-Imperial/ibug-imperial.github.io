@@ -70,7 +70,52 @@ ninja.data = [{
           section: "News",},{id: "news-welcome-to-face-anti-spoofing-challenge-iccv-2025",
           title: 'Welcome to Face Anti-spoofing Challenge @ ICCV 2025.',
           description: "",
-          section: "News",},{id: "projects-ronglai-zuo",
+          section: "News",},{id: "projects-alexander-black",
+          title: 'Alexander Black',
+          description: "Generative Modelling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AlexanderBlack/";
+            },},{id: "projects-andreea-maria-oncescu",
+          title: 'Andreea-Maria Oncescu',
+          description: "Audio and Video Analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AndreeaMariaOncescu/";
+            },},{id: "projects-ayan-das",
+          title: 'Ayan Das',
+          description: "Diffusion Theory",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AyanDas/";
+            },},{id: "projects-aysim-toker",
+          title: 'Aysim Toker',
+          description: "Geoscience and Remote Sensing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AysimToker/";
+            },},{id: "projects-evangelos-ververas",
+          title: 'Evangelos Ververas',
+          description: "3D Vision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EvangelosVerveras/";
+            },},{id: "projects-ismail-elezi",
+          title: 'Ismail Elezi',
+          description: "Diffusion LLMs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IsmailElezi/";
+            },},{id: "projects-konstantinos-panagiotis-alexandridis",
+          title: 'Konstantinos Panagiotis Alexandridis',
+          description: "Long-Tailed Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KonstantinosAlexandridis/";
+            },},{id: "projects-polydefkis-gkagkos",
+          title: 'Polydefkis Gkagkos',
+          description: "Gaze Estimation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PolydefkisGkagkos/";
+            },},{id: "projects-rolandos-alexandros-potamias",
+          title: 'Rolandos Alexandros Potamias',
+          description: "3D Avatars",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RolandosAlexandrosPotamias/";
+            },},{id: "projects-ronglai-zuo",
           title: 'Ronglai Zuo',
           description: "Sign Language Translation/Generation",
           section: "Projects",handler: () => {
