@@ -5,8 +5,8 @@ permalink: /projects/
 description: Mobile Vision Perception (MVP) Lab
 nav: true
 nav_order: 2
-display_categories: [PhD, PDRA, Researcher]
-horizontal: false
+display_categories: [PhD, PDRA, Collaborator]
+horizontal: True
 ---
 
 <!-- pages/projects.md -->
