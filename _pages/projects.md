@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /Projects/
-description: Research projects.
+title: Team
+permalink: /projects/
+description: Mobile Vision Perception (MVP) Lab
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [PhD, PDRA, Researcher]
 horizontal: false
 ---
 
